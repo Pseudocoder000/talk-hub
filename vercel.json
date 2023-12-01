@@ -1,0 +1,6 @@
+{
+    "version":2,
+    "name":"chat-app-yt",
+    "builds":[{"src":"server.js","use":"@versal/node"}],
+    "routes":[{"src":"/(.*)","dest":"/server.js"}]
+}
