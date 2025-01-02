@@ -12,7 +12,7 @@ Cross-Platform Support: Accessible on web, desktop, and mobile platforms.
 Dark Mode: Switch between light and dark themes for a comfortable user experience.
 Search and Filters: Quickly find messages or users in your chat history.
 🛠️ Technology Stack
-Frontend: React.js, HTML5, CSS3, Bootstrap/Tailwind CSS
+Frontend: React.js, HTML5, CSS, Bootstrap/Tailwind CSS
 Backend: Node.js, Express.js
 Database: MongoDB (NoSQL database for storing user data and chat messages)
 Real-time Communication: WebSocket (using Socket.IO for real-time messaging)
@@ -45,7 +45,7 @@ Copy code
 npm start
 Open your browser and navigate to:
 
-arduino
+
 Copy code
 http://localhost:5000
 📚 How to Use
