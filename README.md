@@ -27,11 +27,6 @@ MongoDB installed or access to a cloud MongoDB instance
 Steps
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/talk-hub.git
-cd talk-hub
-Install dependencies:
 
 bash
 Copy code
