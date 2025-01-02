@@ -7,7 +7,7 @@ User Authentication: Secure login and signup functionality to protect your data.
 Group Chats: Create or join group conversations for team collaborations or casual discussions.
 Media Sharing: Share photos, videos, and documents effortlessly.
 Customizable Profiles: Personalize your profile with avatars and status updates.
-Read Receipts: Know when your messages are delivered and read.
+Read Receipts: Know when your messages are delivered and read. 
 Cross-Platform Support: Accessible on web, desktop, and mobile platforms.
 Dark Mode: Switch between light and dark themes for a comfortable user experience.
 Search and Filters: Quickly find messages or users in your chat history.
